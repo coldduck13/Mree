@@ -4,7 +4,7 @@
 
 ### Trojan-Go and Shadowsocks are no longer deployed. Those who are interested can push pr, and I am also trying.
 
-## 服务端创建操作流程 
+## Server-side creation operation process
 0）给本项目个stars
 
 1）将本项目fork至自己仓库修改`Deploy to Heroku`按键指向地址为自己仓库地址
